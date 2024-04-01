@@ -1,3 +1,5 @@
+# StAuth10244: I Marmik Gelani, 000884216 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.
+
 # This game was built using GitHub Copilot, but notably the code
 # matches this website's version almost identically:
 #   https://realpython.com/python-rock-paper-scissors/
